@@ -5,12 +5,17 @@ color: blueviolet;
 html{
     direction: rtl
 }
+a:visited{
+    color:red;
+}
 a:link{
     color: green;
 }
+
 a:hover{
     color:skyblue;
 }
-a:visited{
-    color:red;
+
+a:focus{
+    color:orange;
 }
