@@ -1,0 +1,16 @@
+.p3{
+color: blueviolet;
+}
+
+html{
+    direction: rtl
+}
+a:link{
+    color: green;
+}
+a:hover{
+    color:skyblue;
+}
+a:visited{
+    color:red;
+}
